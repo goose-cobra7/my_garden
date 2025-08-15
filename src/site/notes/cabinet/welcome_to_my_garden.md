@@ -3,3 +3,5 @@
 ---
 
 this is a test for my garden
+# notes
+[[projects/simple python calculator\|simple python calculator]]
