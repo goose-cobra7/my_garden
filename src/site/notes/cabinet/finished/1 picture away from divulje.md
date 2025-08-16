@@ -41,13 +41,20 @@ satellite picture
 potkopi is the bunker its self
 # today
 today the bunker is closed, (by the look from pictures)
+
 <iframe src="https://www.google.com/maps/embed?pb=!4v1747407181043!6m8!1m7!1sei3kbWmUz8YCeIbWaDoJwg!2m2!1d43.53086431968175!2d16.27797649749308!3f316.04669618360447!4f-11.846431924066167!5f0.4000000000000002" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+
 ![Croatia army no entrance sign.webp](/img/user/cabinet/pics/Croatia%20army%20no%20entrance%20sign.webp)
 the sign reads "pay attention war zone" "pay attention military zone"
 coordinates: 43.530861112387186, 16.277988623340086
+
 https://maps.app.goo.gl/Vk45kix5SFmTZQGT6
+
 ![divuljie bunker from google maps 3d scan.png](/img/user/cabinet/pics/divuljie%20bunker%20from%20google%20maps%203d%20scan.png)
 google map 3d scan of the entrance
+
 ![divulje base from google maps.png](/img/user/cabinet/pics/divulje%20base%20from%20google%20maps.png)
 Divulje base in google maps
 i could not find anything interesting around the bunker it self only around the Divulje base, which now act as helicopter base also for the fire department.
