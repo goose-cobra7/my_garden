@@ -31,37 +31,37 @@ see more
 	
 	  <!-- Card 1 -->
 	  <div style="width: 220px; border: 1px solid #ccc; border-radius: 8px; overflow: hidden;">
-	    <a href="obsidian://open?vault=the%20vault&file=projects%2Fbuilding%20clock%20in%20minecraft" target="_blank">
-	      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F16796363%2Fpexels-photo-16796363.jpeg%3Fcs%3Dsrgb%26dl%3Dpexels-maxime-chartier-16796363.jpg%26fm%3Djpg&f=1&nofb=1&ipt=285c520c51c10af0f96eb2081afa4c31e9812d8b580d4c257bcd6847fe74ef40" alt="Legend of the Little Fire Dragon" style="width: 100%; height: auto;">
+	    <a href="obsidian://open?vault=the%20vault&file=projects%2Fsimple%20python%20calculator" target="_blank">
+	      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffoxminded.ua%2Fwp-content%2Fuploads%2F2024%2F06%2Ftkinter-python-kak-ispolzovat.webp&f=1&nofb=1&ipt=38cad85f07a4515095d5b54d74a774240281f5319a36b656e45e424c5b120d7f" alt="python calculator" style="width: 100%; height: auto;">
 	    </a>
 	    <div style="padding: 0.5rem;">
-	      <strong>Legend of the Little Fire Dragon</strong><br>
-	      <small>📅 September 23, 2023</small><br>
-	      <small>📂 Story / Miscellaneous <span style="color: gray;">#by Cui Cui</span></small>
+	      <strong>simple python calculator</strong><br>
+	      <small>📅 August 15, 2025</small><br>
+	      <small>📂 Projects <span style="color: gray;"></span></small>
 	    </div>
 	  </div>
 	
 	  <!-- Card 2 -->
 	  <div style="width: 220px; border: 1px solid #ccc; border-radius: 8px; overflow: hidden;">
-	    <a href="https://source.unsplash.com/random/202309211122" target="_blank">
-	      <img src="https://source.unsplash.com/random/202309211122" alt="Website Planning Overview" style="width: 100%; height: auto;">
+	    <a href="obsidian://open?vault=the%20vault&file=cabinet%2Ffinished%2F1%20picture%20away%20from%20divulje" target="_blank">
+	      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS3FuKlgRNFmYBC-x-LacnbIyBLfnFVmCRcRpFuHfT3S6uaarQL5m_n1lgGczyYoabKDTVSHmpHtl5rvCqQFNAtVo0NUwM0YBZjnrWEM03NML7gYYbvBsKrMfWUiNei7IKyWfub2BReu0/s640/57163_401921500_MiG21UMD.jpg" alt="Website Planning Overview" style="width: 100%; height: auto;">
 	    </a>
 	    <div style="padding: 0.5rem;">
-	      <strong>Website Planning Overview</strong><br>
-	      <small>📅 September 21, 2023</small><br>
-	      <small>📂 Web / Strategy <span style="color: gray;">#by C</span></small>
+	      <strong>1 picture away from divulje</strong><br>
+	      <small>📅 May ..., 2025</small><br>
+	      <small>📂 Post/story <span style="color: gray;"></span></small>
 	    </div>
 	  </div>
 	
 	  <!-- Card 3 -->
 	  <div style="width: 220px; border: 1px solid #ccc; border-radius: 8px; overflow: hidden;">
-	    <a href="https://source.unsplash.com/random/202309201858" target="_blank">
-	      <img src="https://source.unsplash.com/random/202309201858" alt="Adding Articles" style="width: 100%; height: auto;">
+	    <a href="obsidian://open?vault=the%20vault&file=cabinet%2Ffinished%2FClose-quarters%20battle%20(CQB)-tactics" target="_blank">
+	      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2F10th-special-forces-group-during-cqb-training-2048-1151-v0-lga534d28swb1.jpg%3Fs%3Dd341a906975e17f627e8098f94a48c3c838c2d79&f=1&nofb=1&ipt=c36af6b50216b9569b26253d76ec9138ab5fcec577bf0832d0051f704fc7e4bf" alt="Adding Articles" style="width: 100%; height: auto;">
 	    </a>
 	    <div style="padding: 0.5rem;">
-	      <strong>Adding Articles</strong><br>
-	      <small>📅 September 20, 2023</small><br>
-	      <small>📂 Web / Guide <span style="color: gray;">#by C</span></small>
+	      <strong>Close-quarters battle (CQB)-tactics</strong><br>
+	      <small>📅 ..., 2023</small><br>
+	      <small>📂 Post/study <span style="color: gray;"></span></small>
 	    </div>
 	  </div>
 
