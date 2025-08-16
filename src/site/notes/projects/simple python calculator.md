@@ -7,13 +7,13 @@ I started with tkinter from python
 see [tutorial](https://www.pythontutorial.net/tkinter)
 moved to setting the grid
 only what is in square is what im making
-![image.png|343x418](/img/user/image.png)
+![calculator in python_ cal exmple.png|343x418](/img/user/projects/%F0%9F%96%BC%EF%B8%8Fpic/calculator%20in%20python_%20cal%20exmple.png)
 # griding
 se we need grid of:
 columns: 4
 rows: 5
 end up with this
-![image-1.png|300x339](/img/user/image-1.png)
+![calculator in python_ the cal in python.png|300x339](/img/user/projects/%F0%9F%96%BC%EF%B8%8Fpic/calculator%20in%20python_%20the%20cal%20in%20python.png)
 # code
 ## sharpen the UI
 ```python title:"platform check"
@@ -28,7 +28,7 @@ if platform.system() == "Windows":
 ```
 this ensure that if the OS is windows then the system will run 
 `SetProcessDpiAwareness` to sharpen the UI.
-[![resolution test](https://private-user-images.githubusercontent.com/45383191/309088909-3600983c-4754-448f-aa80-cea456b040c6.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTUyMDU2NTAsIm5iZiI6MTc1NTIwNTM1MCwicGF0aCI6Ii80NTM4MzE5MS8zMDkwODg5MDktMzYwMDk4M2MtNDc1NC00NDhmLWFhODAtY2VhNDU2YjA0MGM2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODE0VDIxMDIzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE3YjQyNzBmYTkzNmQ3OTM1MjU5ZWEwMDQ2YzgxNzA4MjdkYjAzYjEzZGZiYWEyNjFhNjlmOWYyN2FmYTQxMzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.muzzt0XPsMkBmUwN8lbZyjPkjc8tEYUjfb5a5L0N_WA)](https://private-user-images.githubusercontent.com/45383191/309088909-3600983c-4754-448f-aa80-cea456b040c6.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTUyMDU2NTAsIm5iZiI6MTc1NTIwNTM1MCwicGF0aCI6Ii80NTM4MzE5MS8zMDkwODg5MDktMzYwMDk4M2MtNDc1NC00NDhmLWFhODAtY2VhNDU2YjA0MGM2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODE0VDIxMDIzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE3YjQyNzBmYTkzNmQ3OTM1MjU5ZWEwMDQ2YzgxNzA4MjdkYjAzYjEzZGZiYWEyNjFhNjlmOWYyN2FmYTQxMzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.muzzt0XPsMkBmUwN8lbZyjPkjc8tEYUjfb5a5L0N_WA)
+[![resolution test|366x90](https://private-user-images.githubusercontent.com/45383191/309088909-3600983c-4754-448f-aa80-cea456b040c6.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTUyMDU2NTAsIm5iZiI6MTc1NTIwNTM1MCwicGF0aCI6Ii80NTM4MzE5MS8zMDkwODg5MDktMzYwMDk4M2MtNDc1NC00NDhmLWFhODAtY2VhNDU2YjA0MGM2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODE0VDIxMDIzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE3YjQyNzBmYTkzNmQ3OTM1MjU5ZWEwMDQ2YzgxNzA4MjdkYjAzYjEzZGZiYWEyNjFhNjlmOWYyN2FmYTQxMzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.muzzt0XPsMkBmUwN8lbZyjPkjc8tEYUjfb5a5L0N_WA)](https://private-user-images.githubusercontent.com/45383191/309088909-3600983c-4754-448f-aa80-cea456b040c6.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTUyMDU2NTAsIm5iZiI6MTc1NTIwNTM1MCwicGF0aCI6Ii80NTM4MzE5MS8zMDkwODg5MDktMzYwMDk4M2MtNDc1NC00NDhmLWFhODAtY2VhNDU2YjA0MGM2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODE0VDIxMDIzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE3YjQyNzBmYTkzNmQ3OTM1MjU5ZWEwMDQ2YzgxNzA4MjdkYjAzYjEzZGZiYWEyNjFhNjlmOWYyN2FmYTQxMzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.muzzt0XPsMkBmUwN8lbZyjPkjc8tEYUjfb5a5L0N_WA)
 left: without resolution setting  
 right: set system resolution
 [SetProcessDpiAwareness](https://www.reddit.com/r/Tkinter/comments/pp1n6o/font_blur_in_the_gui)
@@ -178,7 +178,7 @@ center_x = int(screensize_width / 2 - win_width / 2)  # find center with window
 center_y = int(screensize_height / 2 - win_height / 2)
 ```
 this part find the edge of the root window  from the center
-![image-4.png|340x404](/img/user/image-4.png)
+![calculator in python_ window size.png|340x404](/img/user/projects/%F0%9F%96%BC%EF%B8%8Fpic/calculator%20in%20python_%20window%20size.png)
 where (1_red) is the center
 `set_cal_grid(root)  # create grid` create a grid in the window `root`
 ```python
@@ -254,7 +254,7 @@ root.title("calculator")
 ```
 give the window we created a title. the title will be display on the top bar of the window.
 `root.iconbitmap("Calculator_30001.ico")` give the window an icon
-![image-5.png](/img/user/image-5.png)
+![calculator in python_ icon and name.png|166x50](/img/user/projects/%F0%9F%96%BC%EF%B8%8Fpic/calculator%20in%20python_%20icon%20and%20name.png)
 ```python
 # display window on screen
 root.geometry(f"{win_width}x{win_height}+{center_x}+{center_y}")
@@ -282,3 +282,5 @@ but i need to figure a better way to run functions with it which doesn't include
 [[tkinter base for the calculator.canvas|tkinter base for the calculator]]
 ![tkinter base for the calculator.png](/img/user/tkinter%20base%20for%20the%20calculator.png)
 [icons](https://icon-icons.com)
+
+[[cabinet/welcome_to_my_garden\|back to the web hub]] 🏡
