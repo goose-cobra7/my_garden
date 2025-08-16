@@ -72,5 +72,6 @@ see more
 # posts
 [[cabinet/finished/1 picture away from divulje\|1 picture away from divulje]]
 [[cabinet/finished/Close-quarters battle (CQB)-tactics\|Close-quarters battle (CQB)-tactics]]
+[[cabinet/finished/Fuck Goodnotes\|Fuck Goodnotes]]
 
 # extras
