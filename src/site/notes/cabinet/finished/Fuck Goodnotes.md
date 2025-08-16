@@ -48,3 +48,5 @@ I was searching for a basic app—something so simple it only has the bare minim
 
 I'm going back to Samsung Notes.  
 I'll [[cabinet/finished/moving to Samsung notes\|update]].
+
+[[cabinet/welcome_to_my_garden\|back to the web hub]] 🏡
