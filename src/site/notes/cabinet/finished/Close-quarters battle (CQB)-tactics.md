@@ -63,6 +63,7 @@ in the room the door is the most dangerous part, this is why on go the team more
 in this picture we can observe the combatant get glimpse at the right corner of the room (while not fully) before entrance. then he proceed to get inside and clear the room from left to right and then counter clock.
 the picture doesn't do Justise the act it self take matter of seconds for this size of a room.
 we can see in this picture the combatant is alone and can suffer consequences from it, other combatant could do the exact entrance but from right to left and why not follow it with some tactics that we all ready learned and throw in flash to make the entrance deliberate and smooth.
+
 ![3 man CQB entrence-1.webp|469](/img/user/cabinet/pics/3%20man%20CQB%20entrence-1.webp)
 in this picture we can see 3 combatant proceeding entrance to room using CQB tactics.
 they each enter with their own role to fill, this way they cover the room fully in ease and in seconds. you probably wondering why non of them is looking at the left bottom corner of the room. this is because the first picture show the before and the second one show the ending of the procedure which contain checking this corner. it was num 1 role to go left from the door, 2 role was going to the right and 3 was going a bit to the left while looking forward and right .
@@ -72,7 +73,9 @@ from the second stage, after entrance and clearing done, **the leader (gold)** w
 in SWAT the team have ground control or commend center they get to see all from a far make decision and help the beaching team. for example if wounded was found in the area, team leader will report. commend center get the report call ambulance and rescue team and wait for beach order that things are clear to proceed with the rescue. they can much more then just this but we will not cover it here.
 ## door breach
 there are 2 ways to breach door (which is not just opening like normal person) 
+
 ![door breach.webp](/img/user/cabinet/pics/door%20breach.webp)
+
 **handle** breach or **hinge** breach
 ### handle
 in this tactic you shoot the handle area to make the lock go boom and break. this is very easy and some time work on first try, its good because well trained combatant can do it in first try and surprise the enemy. the bad side is the door is still here and not going any where which mean that the door can get in the way of your entrance or block you view to one of the side.
@@ -105,5 +108,9 @@ https://www.specialtactics.me/blog/category/Close+Quarters+Battle (Special Tacti
 [[united_states_army_fm_90-10x1 - 12_may_1993 - part09.pdf]]
 1u.s. GOVERNMENT PRINTING OFFICE: ==1995==
 
+
+[[cabinet/welcome_to_my_garden\|back to the web hub]] 🏡
+
 ---
 [^1]:in CQB and in combat overall, when friendly is Infront of you, you point the barrel to the sky or to the ground or even to the side. this because the gun can miss click and fire, and moving the gun to safe mod is not practical mid combat.
+
