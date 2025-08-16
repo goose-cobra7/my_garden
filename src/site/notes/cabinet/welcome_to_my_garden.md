@@ -31,7 +31,7 @@ see more
 	
 	  <!-- Card 1 -->
 	  <div style="width: 220px; border: 1px solid #ccc; border-radius: 8px; overflow: hidden;">
-	    <a href="obsidian://open?vault=the%20vault&file=projects%2Fsimple%20python%20calculator" target="_blank">
+	    <a href="[[projects/simple python calculator\|simple python calculator]]" target="_blank">
 	      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffoxminded.ua%2Fwp-content%2Fuploads%2F2024%2F06%2Ftkinter-python-kak-ispolzovat.webp&f=1&nofb=1&ipt=38cad85f07a4515095d5b54d74a774240281f5319a36b656e45e424c5b120d7f" alt="python calculator" style="width: 100%; height: auto;">
 	    </a>
 	    <div style="padding: 0.5rem;">
