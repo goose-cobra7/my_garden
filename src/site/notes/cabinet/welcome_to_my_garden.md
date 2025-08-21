@@ -25,10 +25,6 @@ they will be categorize by:
 ### others
 you might see other things as well which are not projects or blog post
 they have their own category
-see more
->[!info] 
->#tags are for my obsidian organizing
->@**tags** are for viewer {less tags types}
 # chosen posts of the day
 <div style="display: flex; flex-wrap: wrap; gap: 1rem;">
 	
