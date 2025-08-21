@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/projects/how i made the input system in C and why/"}
 ---
 
+#cabinet/blog #study/coding/C 
 in this part we are going to dive only into one part of my code, see what good what bad and most of all why
 we are going to examine the system to details and seeing where i could improve and how
 we are also going to talk about a very important idea, microservice-like function and API
@@ -209,6 +210,7 @@ i forgot to take care of `sys` and create this abomination
 which figure if action is `sys` which is `*` and return only this
 there too many useless variables and pointer which given enough time and dedication i could have fixed.
 [[input pipeline.canvas|input pipeline]]
+![input pipeline.png](/img/user/input%20pipeline.png)
 # but why
 ho i glad you asked or reaser i asked.
 the real reason for all of this is
