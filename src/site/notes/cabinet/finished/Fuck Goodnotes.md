@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cabinet/finished/Fuck Goodnotes/"}
 ---
 
-#drawer/blog 
+#cabinet/blog 
 
 When I started college, I went to the store and bought myself some notebooks for math and writing. Very quickly, I realized that notebooks are something from my dad’s decade—everyone uses tablets now. (I mean, I knew tablets could be good, but for a college student in engineering, they're really a lifesaving tool.)
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cabinet/finished/Close-quarters battle (CQB)-tactics/"}
 ---
 
-#study/other #drawer/essay 
+#study/other #cabinet/essay 
 # CQB and CQC
 **CQB** is an idea in of **C**lose-**Q**uarters **T**actics, how to clear small rooms, act fast and control the situation. most of the time CQB can be refer as “Room Clearing Tactics” (RCT).
 according to [BCT](https://www.berettadefensetechnologies.com/cqb-army-gear-from-weapons-to-optics-beretta-defense-technologies/ ) there is **CQC** and **CQB**:

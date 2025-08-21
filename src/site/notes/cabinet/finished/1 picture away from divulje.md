@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cabinet/finished/1 picture away from divulje/"}
 ---
 
-#drawer/essay 
+#cabinet/blog #study/other
 while going trough Pinterest like the bord I was. i found myself in aircraft and jets pictures section and stumble a cross this pic
 ![Mig-21 crosses the regional road which connecting the underground facility Cetin with the airport.webp](/img/user/cabinet/pics/Mig-21%20crosses%20the%20regional%20road%20which%20connecting%20the%20underground%20facility%20Cetin%20with%20the%20airport.webp)
 https://www.pinterest.com/pin/459648705697995703/

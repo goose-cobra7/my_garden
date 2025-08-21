@@ -2,11 +2,13 @@
 {"dg-publish":true,"permalink":"/projects/finished/simple python calculator/"}
 ---
 
+#projects 
+==done==
 # lets begin
-I started with tkinter from python
+I started with [tkinter](https://pythonguides.com/tkinter) from python
 see [tutorial](https://www.pythontutorial.net/tkinter)
-moved to setting the grid
-only what is in square is what im making
+moved to setting the [grid](https://www.pythontutorial.net/tkinter/tkinter-grid)
+only what is in square is what I'm making
 ![calculator in python_ cal exmple.png|343x418](/img/user/projects/%F0%9F%96%BC%EF%B8%8Fpic/calculator%20in%20python_%20cal%20exmple.png)
 # griding
 se we need grid of:
@@ -49,7 +51,7 @@ def set_cal_grid(root):
         root.grid_columnconfigure(i, weight=1)
         pass
 ```
-this lay the grid but also config it to be flexible with all the buttons changing sizes to fit.
+this lay the grid but also config it to be flexible with all the [buttons](https://www.pythontutorial.net/tkinter/tkinter-button) changing sizes to fit.
 ## get number
 ```python
 def press(value):
@@ -97,7 +99,7 @@ def result():
         reg_tmp = ""
     #print(f"reg_1:{reg_1},reg_temp:{reg_tmp},res:{res},action:{a}")#debug
 ```
-the code take the global variables and combine them based on the `a` of action
+the code take the [^1]global variables and combine them based on the `a` of action
 ## main
 ```python
 if __name__ == "__main__":
@@ -187,7 +189,7 @@ entry.grid(column=0,row=0,columnspan=4)
 ```
 create a `Label` of `ttk` to display the numbers you type and the res
 call it `entry` then display it in the grid and let it spread all the top row
-`columnspan` tell the obj (ttk) how many grid cells he can take. in this example it take 4 which is all the columns in the grid we created
+`columnspan` tell the obj (ttk)[^3] how many grid cells he can take. in this example it take 4 which is all the columns in the grid we created
 
 
 ```python
@@ -246,7 +248,7 @@ for each button i created i assign cell in grid and also config it
 lets break it down:
 	`button_1.grid`:on this button config grid
 	`column=0, row=1,`:which cell
-	`sticky="nsew"`:fill the entire cell. [you can make it stick and fill only one side or just the bottom or top](https://www.pythontutorial.net/tkinter/tkinter-grid/#sticky)
+	`sticky="nsew"`:[^2]fill the entire cell. [you can make it stick and fill only one side or just the bottom or top](https://www.pythontutorial.net/tkinter/tkinter-grid/#sticky)
 
 ```python
 # title this shit
@@ -280,7 +282,14 @@ i do see my self making more stuff with it.
 but i need to figure a better way to run functions with it which doesn't include global. 
 
 [[tkinter base for the calculator.canvas|tkinter base for the calculator]]
-![tkinter base for the calculator.png](/img/user/tkinter%20base%20for%20the%20calculator.png)
+![tkinter base for the calculator.png](/img/user/projects/%F0%9F%96%BC%EF%B8%8Fpic/tkinter%20base%20for%20the%20calculator.png)
 [icons](https://icon-icons.com)
 
 [[cabinet/welcome_to_my_garden\|back to the main page]] 🏡
+
+[^1]: this is a variable which exist and can be used even when not input in the function input. the reason for global variables have to do with how tkinter handle the function when button pressed. you can enter variables but not return them from the button.
+
+[^2]: nsew- stand for: north, south, east, west
+
+[^3]: in sort: ttk is a newer version for some UI parts in tkinter, its higher quality and fit more the new win 10/11 also it run on X11
+https://docs.python.org/3/library/tkinter.ttk.html

@@ -232,3 +232,5 @@ this is also very important when working in a team, this way even if i don't kno
 this is a microservice-like function meant to take large types of format and compress it to small restrict format for later use. 
 the function could use some improvement.
 we talked about microservice-like function and API and why when building even function for your own program its sometime better to use the API building set of rules.
+
+[[cabinet/welcome_to_my_garden\|back to the web hub]] 🏡
