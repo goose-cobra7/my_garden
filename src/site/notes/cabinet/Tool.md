@@ -4,6 +4,7 @@
 
 this note keep track of good tools to use for project and writing
 search for your project topic and find the right **Tool**
+[[cabinet/welcome_to_my_garden\|back to the web hub]] 🏡
 # engineering
 - https://www.engineer4free.com/circuits.html?form=MG0AV3 - academy level course for free
 - https://qelectrotech.org - open source standard level electrical diagram
@@ -24,8 +25,11 @@ search for your project topic and find the right **Tool**
 - https://roadmap.sh/ - make you road map to study with all the sources you will need free and paid
 # math
 - https://www.geogebra.org/m/W7dAdgqc - differential equations visualized (helped me so much in [ODE](https://en.wikipedia.org/wiki/Ordinary_differential_equation) course)
-- 
 
+# 3D
+- https://github.com/alicevision/Meshroom - 3d scan with any camera in high quality
+- https://www.blender.org/download - blender 3d
+- https://www.onshape.com/en - free industry level cad software which can run on any platform, laptop, desktop, phone, tablet
 # Coding
 - https://github.com/sindresorhus/awesome - the collection of repos and sources for coding like king
 - https://pythontutor.com/render.html#mode=display - display your code in visual way like the teacher on the board. (C, C++, Java, Python)

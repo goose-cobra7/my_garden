@@ -3,7 +3,7 @@
 ---
 
 welcome to my [Digital Garden](https://goosesgarden.netlify.app)
-here you can read note, aticles, blogs and project i work on
+here you can read note, articles, blogs and project i work on
 there are 2 types of notes:
 - project 
 - blog
@@ -17,7 +17,7 @@ projects will have next to them the progress:
 >the project it self abended or completed what left is finishes
 
 ### blogs
-blog are storys ideas or research im doing
+blog are stories ideas or research I'm doing
 they will be categorize by:
 - idea
 - blog (story)
@@ -76,3 +76,6 @@ they have their own category
 
 # extras
 [[cabinet/Tool\|Tool shad]] 🛠️
+# links
+- GitHub - https://github.com/goose-cobra7
+- LinkedIn - 
