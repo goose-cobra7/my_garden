@@ -210,7 +210,7 @@ i forgot to take care of `sys` and create this abomination
 which figure if action is `sys` which is `*` and return only this
 there too many useless variables and pointer which given enough time and dedication i could have fixed.
 [[input pipeline.canvas|input pipeline]]
-![input pipeline.png](/img/user/input%20pipeline.png)
+![input pipeline.png](/img/user/projects/input%20pipeline.png)
 # but why
 ho i glad you asked or reaser i asked.
 the real reason for all of this is

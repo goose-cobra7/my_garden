@@ -66,8 +66,8 @@ they have their own category
 </div>
 
 # projects
-[[projects/finished/simple python calculator\|simple python calculator]]
-[[projects/land rover back part/Making a car part as a hobbyist 3d scan\|Making a car part as a hobbyist 3d scan]]
+[[projects/finished/simple python calculator\|simple python calculator]] :done
+[[projects/land rover back part/Making a car part as a hobbyist 3d scan\|Making a car part as a hobbyist 3d scan]] :done
 # posts
 [[cabinet/finished/1 picture away from divulje\|1 picture away from divulje]]
 [[cabinet/finished/Close-quarters battle (CQB)-tactics\|Close-quarters battle (CQB)-tactics]]
@@ -75,3 +75,4 @@ they have their own category
 [[projects/how i made the input system in C and why\|how i made the input system in C and why]]
 
 # extras
+[[cabinet/Tool\|Tool shad]] 🛠️
