@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cabinet/welcome_to_my_garden/","tags":["gardenEntry"]}
 ---
 
-welcome to my [Digital Garden](https://goosesgarden.netlify.app)
+welcome to [[cabinet/about me\|my]] [Digital Garden](https://goosesgarden.netlify.app)
 here you can read note, articles, blogs and project i work on
 there are 2 types of notes:
 - project 
@@ -73,10 +73,11 @@ they have their own category
 [[cabinet/finished/Close-quarters battle (CQB)-tactics\|Close-quarters battle (CQB)-tactics]]
 [[cabinet/finished/Fuck Goodnotes\|Fuck Goodnotes]]
 [[projects/how i made the input system in C and why\|how i made the input system in C and why]]
-
+[[cabinet/the problem in the API chain in the low level framework\|the problem in the API chain in the low level framework]]
 # extras
 [[cabinet/Tool\|Tool shad]] 🛠️
 # links
 - GitHub - https://github.com/goose-cobra7
 - LinkedIn - 
+- [[cabinet/about me\|about me]]
 - [[cabinet/welcome_to_my_garden\|back to the web hub]] 🏡
