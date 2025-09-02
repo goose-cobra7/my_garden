@@ -4,7 +4,7 @@
 
 welcome to [[cabinet/about me\|my]] [Digital Garden](https://goosesgarden.netlify.app)
 here you can read note, articles, blogs and project i work on
-there are 2 types of notes:
+there are 2 types of notes: 
 - project 
 - blog
 ### projects
@@ -74,6 +74,7 @@ they have their own category
 [[cabinet/finished/Fuck Goodnotes\|Fuck Goodnotes]]
 [[projects/how i made the input system in C and why\|how i made the input system in C and why]]
 [[cabinet/the problem in the API chain in the low level framework\|the problem in the API chain in the low level framework]]
+[[cabinet/finding the internal resistances of battery\|finding the internal resistances of battery]] 
 # extras
 [[cabinet/Tool\|Tool shad]] 🛠️
 # links

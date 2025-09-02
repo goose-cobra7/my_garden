@@ -3,7 +3,7 @@
 ---
 
 ## My Name Is Eran Yadin
-
+![my pic.jpg|310x305](/img/user/my%20pic.jpg)
 
 I'm currently studying electrical engineering and I'm a passionate tech enthusiast.  
 Most of my free time is spent studying, working on personal projects (some tech-related, some artistic), and playing video games.
