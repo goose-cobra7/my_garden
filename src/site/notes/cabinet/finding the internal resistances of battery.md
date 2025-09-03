@@ -57,19 +57,19 @@ next i check the voltage for each resistor
 next i calculated the current for each time using $I = \frac{V}{R}$
 - $I_1$ = 0.017170 {A}
 - $I_2$ = 0.036409 {A}
-then check the error for it using 
+then check the error for it using [^1]
 $$\Delta I = \sqrt{\left (  \frac{dI}{dV}\right )^{2}(\Delta V)^{2}}+\sqrt{\left ( \frac{dI}{dR} \right )^2(\Delta R)^2}$$
 { #35c216}
 
 - $\Delta I_1 = \pm 1.08209\times _{10}^{-4}$ 
 - $\Delta I_2 = \pm 2.35547\times _{10}^{-4}$ 
-now ill combine them together in the [[#^6ef85d|other side of the formula]] 
+now ill combine them together in the other side of the formula[^2]
 $V = \varepsilon  - Ir$ 
 now we left with
 $V_1-V_2 = - (I_1-I_2)r$
 and we can get $r$
 $r = 3.1186$
-to calculate the error we do [[#^35c216|it]] again
+to calculate the error we do it[^1] again
 because the current is very low then the error by the derivative is very high
 we bypass it by using current which is higher by increasing the voltage (which i would not do for safety reason) or lower the resistance this can be done but because i don't want  to make all the circuit part all over again ill just continue.
 we can say the $\Delta r$ is very little
@@ -79,3 +79,7 @@ $\varepsilon = 8.1235$ {V}
 here is a simulation of the 2 circuits
 ![circuit 1 (470R).gif](/img/user/circuit%201%20(470R).gif)
 ![circuit 2 (220R).gif](/img/user/circuit%202%20(220R).gif)
+
+[^1]:$$[ \Delta F = \sqrt{ \left( \frac{\partial F}{\partial x} \Delta x \right)^2 + \left( \frac{\partial F}{\partial y} \Delta y \right)^2 + \left( \frac{\partial F}{\partial z} \Delta z \right)^2 + \dots } ]$$ 
+
+[^2]:$V_{ab} = \varepsilon -Ir = IR$ 
