@@ -81,7 +81,7 @@ while (buffer[i] != '\0')
     i++;
 }
 ```
-i used `tolower` from `ctype.h` but i could have just ASCII hacked my why to lower casing
+i used `tolower` from `ctype.h` but i could have just ASCII hacked my way to lower casing
 then i simply checked on the buffer (user input) to see if the user asked for `help`. if so print the help function 
 ```c title:help_fuction
 void print_help()
@@ -99,17 +99,16 @@ void print_help()
 { #2b5cfe}
 
 
-after this split the buffer to 3 parts: str str rest of characters.
+after this, split the buffer to 3 parts: ` {str} {str} {rest of characters}`.
 `    sscanf(buffer,"%s %s %[^\n]",&action,&abuse,&pointer);` 
 first string is: action
 second string: abuse
 rest of char str: pointer
 >[!info]
 >the `%s` from scanf scan until space. which is diffrent then what you expect.
->if you want to take few string you could `%[^\n]` which mean take all char until you see `\n`
+>if you want to take few strings you could `%[^\n]` which mean take all char until you see `\n`
 
-after this we get the action which could be in couple of form. see [[#^2b5cfe|help]]
-and return one `char`
+after this we get the action which could be in couple of form (see [[#^2b5cfe|help]]) and return one `char` .
 over all very confusing. so you shouldn't try dig too deep. 
 in short the function search for either a `-` and then `char` or an exact match of string.
 ```c title:"get action"
@@ -164,7 +163,7 @@ char get_action(char *action)
     }
 }
 ```
-if by any chance non match found the function return `'` which tell the software to print error `error_no_action`
+if by any chance non match was found, the function return `'` which tell the software to print error `error_no_action`
 it just print that you didn't enter action or entered it poorly 
 next check to see if the user only entered one word
 if so `error_no_abuse` is printed
@@ -191,7 +190,7 @@ final = malloc(sizeof(char) * (strlen(sys_a) + strlen(new_pointer) + 1));
 ```
 holder for `final` and `char` array of the final action code
 and `new pointer` if the user have a pointer then this is copyed to the `new_pointer`
-otherwise the user get the chance to give the missing pointer
+otherwise the user get the chance to give the missing pointer.
 we check to see if user entered pointer by checking the first letter in the pointer array we got from the buffer.
 finally we get the size of the final `char` array for the action code
 ```c title:final
@@ -212,7 +211,7 @@ there too many useless variables and pointer which given enough time and dedicat
 [[input pipeline.canvas|input pipeline]]
 ![input pipeline.png](/img/user/projects/input%20pipeline.png)
 # but why
-ho i glad you asked or reaser i asked.
+ho i glad you asked.
 the real reason for all of this is
 # API and microservice-like function
 they act as a black box, microservice-like function. you give it unfiltered but followed by roles, commends and they return the same. formatted date according to the rules.
@@ -221,16 +220,17 @@ Application Programming Interface
 which is a given set of rules for people that want to use your app.
 ill give a great example i like
 you have a machine, this machine store cookies. you want to use this machine. but you don't want to know how it works, only that it works. because the inside of this machine is complicated and terrifying.
-so the manifatur create a set of rules. 
+so the manufacture create a set of rules. 
 if you want a cookie simply write: get {number of cookies} {the type of cookie}
-for exmple: get 1 chocolate cookie
+for example: get 1 chocolate cookie
 so the basic rules are: {action} {number} {type}
 this why the user get easy to use controls while also giving him full control.
-this tacnic i also use for my code. this way when i finish with a mini fuction struct like the one i sould you, i know this part of the program is done. and as long as i dont need to change to progrem and as long as i follow the rulles i set the function will work no probelm.
+this tactic i also use for my code. this way, when i finish with a mini function-struct like, the one i showed you, i know this part of the program is done. and as long as i don't need to change to program and as long as i follow the rules i set. the function will work no problem.
+this is the reason way preparing the layout and borders of the app before hand helps a lot and make sure rewriting entire functions, and wasting time, is out of the table.
 this is also very important when working in a team, this way even if i don't know how my friend created his function i can still use it.
 # conclusion
-this is a microservice-like function meant to take large types of format and compress it to small restrict format for later use. 
-the function could use some improvement.
-we talked about microservice-like function and API and why when building even function for your own program its sometime better to use the API building set of rules.
+- this is a microservice-like function meant to take large types of format and compress it to small restrict format for later use. 
+- the function could use some improvement.
+- we talked about microservice-like function and API and why when building even function for your own program its sometime better to use the API building set of rules.
 
 [[cabinet/welcome_to_my_garden\|back to the web hub]] 🏡
