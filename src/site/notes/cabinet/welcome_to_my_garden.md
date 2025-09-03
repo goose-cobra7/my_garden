@@ -68,6 +68,7 @@ they have their own category
 # projects
 [[projects/finished/simple python calculator\|simple python calculator]] :done
 [[projects/land rover back part/Making a car part as a hobbyist 3d scan\|Making a car part as a hobbyist 3d scan]] :done
+[[projects/game of life/game of life with logic gates\|game of life with logic gates]] :in progress
 # posts
 [[cabinet/finished/1 picture away from divulje\|1 picture away from divulje]]
 [[cabinet/finished/Close-quarters battle (CQB)-tactics\|Close-quarters battle (CQB)-tactics]]
